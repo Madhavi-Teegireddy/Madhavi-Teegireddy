@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Madhavi Latha</h1>
 <h3 align="center">A Passionate Full Stack Web-Developer</h3>
-<img align="right" alt="codingimg" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
+<img align="right" alt="codingimg" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavi-teegireddy&label=Profile%20views&color=0e75b6&style=flat" alt="madhavi-teegireddy" /> </p>
 
