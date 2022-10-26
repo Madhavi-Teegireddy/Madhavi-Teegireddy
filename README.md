@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
+![MasterHead](https://camo.githubusercontent.com/def1481df651f6d135b7f17a7bb96dd60ea66718a99b1db1a0f2a2eb78309158/68747470733a2f2f64766f6b686b386f68716864382e636c6f756466726f6e742e6e65742f6173736574732f656e67696e656572696e675f74797065732f66756c6c5f737461636b2f6865726f5f696d6167652d366432616630346438666632366232333334653066383636623365333637316238633565333266636130663438383363326536613335323438653336643737642e737667)
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi
@@ -107,9 +107,9 @@
     </a>
 </p>
   
-<p align="center"<a href="#"><img alt="madhavi-teegireddy" src="https://activity-graph.herokuapp.com/graph?username=madhavi-teegireddy&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="madhavi-teegireddy" src="https://activity-graph.herokuapp.com/graph?username=madhavi-teegireddy&bg_color=0D1117&color=42a5f5&line=42a5f5&point=FFFFFF&hide_border=true&" /></a></p>
 
-<p align="center"> <a href="https://github.com/madhavi-teegireddy"><img src="https://github-profile-trophy.vercel.app/?username=madhavi-teegireddy&margin-w=5&theme=radical" alt="Nagarajumedida" /></a> </p>
+<p align="center"> <a href="https://github.com/madhavi-teegireddy"><img src="https://github-profile-trophy.vercel.app/?username=madhavi-teegireddy&margin-w=5&theme=radical" alt="madhaiteegireddy" /></a> </p>
 
  </div>
 
