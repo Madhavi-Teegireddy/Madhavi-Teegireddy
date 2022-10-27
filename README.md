@@ -92,7 +92,7 @@
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavi-teegireddy&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="madhavi-teegireddy" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavi-teegireddy&layout=compact&border_radius=0" alt="madhavi-teegireddy" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhavi-teegireddy&bg_color=0D1117&color=2196f3&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="madhavi-teegireddy" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavi-teegireddy&bg_color=0D1117&color=2196f3&layout=compact&border_radius=0" alt="madhavi-teegireddy" height="139" />
 </p>
 
 <br/>
