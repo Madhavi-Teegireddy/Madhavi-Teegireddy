@@ -31,7 +31,7 @@
 
 - 📫 How to reach me *madhavitigireddi1@gmail.com*
 
-- 📄 Know about my work in my <a href="resume" target="_blank">RESUME</a>
+- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1O-BBfECANZ3a2TLfzz5ucoZWWU7AtIps/view?usp=sharing" target="_blank">RESUME</a>
 
 
 <br>
