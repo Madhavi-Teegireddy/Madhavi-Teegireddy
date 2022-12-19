@@ -112,9 +112,10 @@
     </a>
 </p>
   
-<p align="center"<a href="#"><img alt="madhavi-teegireddy" src="https://activity-graph.herokuapp.com/graph?username=madhavi-teegireddy&bg_color=0D1117&color=42a5f5&line=42a5f5&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="madhavi-teegireddy-github-stats-graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=madhavi-teegireddy&bg_color=0D1117&color=42a5f5&line=42a5f5&point=FFFFFF&hide_border=true&"/></a></p>                                                                                                       
+ <p align="center"> <a href="https://github.com/madhavi-teegireddy"><img src="https://github-profile-trophy.vercel.app/?username=madhavi-teegireddy&margin-w=5&theme=radical" alt="madhaiteegireddy" /></a> </p>
 
-<p align="center"> <a href="https://github.com/madhavi-teegireddy"><img src="https://github-profile-trophy.vercel.app/?username=madhavi-teegireddy&margin-w=5&theme=radical" alt="madhaiteegireddy" /></a> </p>
+                                                                                                         
 
  </div>
 
