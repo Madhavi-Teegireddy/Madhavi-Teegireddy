@@ -22,16 +22,12 @@
 
 
 
--  I’m Looking to collaborate on OpenSource Projects
-
-- 👨‍💻 All of my projects are available at <a href="https://madhavi-teegireddy.github.io/" target="_blank">PORTFOLIO</a>
-
+- 🤝🏻 I’m Looking to collaborate on WebDev Projects
+- 👩‍💻 Currently looking for job opportunities in Mern stack.
 - 💬 Ask me about *MERN stack*
-
-- 📫 How to reach me *madhavitigireddi1@gmail.com*
-
-- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1O-BBfECANZ3a2TLfzz5ucoZWWU7AtIps/view?usp=sharing" target="_blank">RESUME</a>
-
+- 💻 All of my projects are available at <a href="https://madhavi-teegireddy.github.io/" target="_blank">PORTFOLIO</a>
+- 📄 Know about my Education details in my <a href="https://drive.google.com/file/d/1O-BBfECANZ3a2TLfzz5ucoZWWU7AtIps/view?usp=sharing" target="_blank">RESUME</a>
+- 📫 Reach me through *madhavitigireddi1@gmail.com* || <a href="https://www.linkedin.com/in/madhavi-t-3082a0253/" target="_blank">LinkedIn</a>
 
 <br>
 <!-----------------------------------------------technical tools---------------------------------------->
