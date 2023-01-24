@@ -8,22 +8,21 @@
 <h1 align="center">
     Hi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-    I'm Madhavi Latha
+    I'm Madhavi Latha</h1>
     <h3 align="center">A Passionate Full Stack Web-Developer</h3>
-</h1>
 
 
 
 <!----------------------------------- About Section ------------------------------------>
 
-<p>Currently Studying in Masai School To become a Full-Stack-Web-Developer. 
+<p>I'm an enthusiastic Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant  products. Always looking forward to learn something new to strengthen skills learned.</p>
     <br>
 
 <!-- <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" /> -->
 
 
 
-- 🌱 I’m currently learning *React, Redux, MongoDB, Express*
+-  I’m Looking to collaborate on OpenSource Projects
 
 - 👨‍💻 All of my projects are available at <a href="https://madhavi-teegireddy.github.io/" target="_blank">PORTFOLIO</a>
 
@@ -47,8 +46,6 @@
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
-<br/>
-<br/>
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
   
@@ -124,9 +121,9 @@
  <hr>
 <p align="center">
     <i>Take a look at my repositories and let's get in touch!</i><br><br>
-    <code>
+<!--     <code>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
-</code>
+</code> -->
   
  
 </p>
