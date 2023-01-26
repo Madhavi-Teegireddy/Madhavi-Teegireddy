@@ -15,7 +15,7 @@
 
 <!----------------------------------- About Section ------------------------------------>
 
-<p>I'm an enthusiastic Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant  products. Always looking forward to learn something new to strengthen skills learned.</p>
+<p>I'm a Self motivated & Aspiring Full-Stack-Web developer with hands on experience. Proficient in creating user centric and ready to use products using MERN stack. Looking for a challenging roll in a growth oriented organisation.</p>
     <br>
 
 <!-- <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" /> -->
